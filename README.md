@@ -29,3 +29,7 @@ How to play the Maven Family Leave Challenge
 - For this challenge, you'll be working as a Data Visualization Specialist at an online business journal. Your role is to create charts, visuals, and infographics as supporting content for articles.
 
 - As part of Women's History Month in the United States, your company is writing a piece on parental leave policies across the business world and they need you to create an impactful visual using the data you collected.
+
+Dashboard
+
+![image](https://github.com/IshaBhardwaj15/Paternal-Leave-Challenge-Power-BI/blob/main/parental_leaves-1.png)
